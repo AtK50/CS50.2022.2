@@ -1,4 +1,5 @@
+CS50.2022.2
 
-# Haikus for Codespaces
+My second repository on Github
 
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+I like 🍕, and CS50
